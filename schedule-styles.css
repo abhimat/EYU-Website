@@ -1,0 +1,26 @@
+th, td {
+    margin: 0;
+    text-align:center;
+    border-collapse: collapse;
+    outline: 1px solid #444444;
+    padding:10px;
+}
+
+
+
+table {
+    padding:20px;
+}
+
+
+.location {
+    background-color:#cccccc;
+}
+
+.header {
+    background-color:#aaaaaa;
+}
+
+.night {
+    background-color:#eeeeee;
+}
