@@ -15,12 +15,19 @@ table {
 
 .location {
     background-color:#cccccc;
+    width:15%;
 }
 
 .header {
     background-color:#aaaaaa;
+    width:15%;
 }
 
 .night {
     background-color:#eeeeee;
 }
+
+#night {
+    background-color:#eeeeee;
+}
+

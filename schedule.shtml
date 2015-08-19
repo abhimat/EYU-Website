@@ -99,8 +99,86 @@
 
 
 
-       </table>
+        </table>
 
+        <table width=90%; align="center">
+            <tr>
+                <th class="header">Subject</th>
+                <td class="location">Location</td>
+                <td>12pm</td>
+
+                <td>1pm</td>
+                <td>2pm</td>
+                <td>3pm</td>
+                <td>4pm</td>
+                <td id="night">5pm</td>
+                <td id="night">6pm</td>
+                <td id="night">7pm</td>
+            </tr>
+            <tr>
+                <th class="header">Talks</th>
+                <td class="location">TBD</td> 
+                <td colspan=5>Science</td>
+                <td colspan=3 id="night">Night Science</td>
+            </tr>
+            <tr>
+                <th class="header">Astronomy</th>
+                <td class="location">Court of Sciences</td>
+                <td colspan=5>Science</td>
+                <td colspan=3 id="night">Night Science</td>
+            </tr>
+
+            <tr>
+                <th class="header">Physics</th>
+                <td class="location">Physics and Astronomy Building</td>
+                <td colspan=5>Science</td>
+                <td colspan=3 id="night">Night Science</td>
+            </tr>
+            <tr>
+                <th class="header">Earth, Planetary and Space Sciences</th>
+                <td class="location">Geology Building</td>
+                <td colspan=5>Science</td>
+                <td colspan=3 id="night">Night Science</td>
+            </tr>
+            <tr>
+                <th class="header">Atmospheric and Oceanic Sciences</th>
+                <td class="location">Young Courtyard</td>
+                <td colspan=5>Science</td>
+                <td colspan=3 id="night">Night Science</td>
+            </tr>
+            <tr>
+                <th class="header">Chemistry</th>
+                <td class="location">Court of Sciences</td>
+                <td colspan=5>Science</td>
+                <td colspan=3 id="night">Night Science</td>
+            </tr>
+            <tr>
+                <th class="header">Biology</th>
+                <td class="location">Court of Sciences</td>
+                <td colspan=5>Science</td>
+                <td colspan=3 id="night">Night Science</td>
+            </tr>
+            <tr>
+                <th class="header">Engineering</th>
+                <td class="location">Court of Sciences</td>
+                <td colspan=5>Science</td>
+                <td colspan=3 id="night">Night Science</td>
+            </tr>
+            <tr>
+                <th class="header">Neuroscience</th>
+                <td class="location">Court of Sciences</td>
+                <td colspan=5>Science</td>
+                <td colspan=3 id="night">Night Science</td>
+            </tr>
+            <tr>
+                <th class="header">Math and Statistics</th>
+                <td class="location">Court of Sciences</td>
+                <td colspan=5>Science</td>
+                <td colspan=3 id="night">Night Science</td>
+            </tr>
+                
+
+        </table>
 
     </body>
 
