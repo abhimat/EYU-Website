@@ -101,6 +101,11 @@
 
         </table>
 
+    <div style="border: 1px solid black"></div>
+
+
+
+
         <table width=90%; align="center">
             <tr>
                 <th class="header">Subject</th>
@@ -179,6 +184,109 @@
                 
 
         </table>
+
+
+    <div style="border: 1px solid black"></div>
+
+        <table width=90%; align="center">
+            <tr>
+                <th class="header">Subject</th>
+                <td class="location">Location</td>
+                <td>12pm</td>
+
+                <td>1pm</td>
+                <td>2pm</td>
+                <td>3pm</td>
+                <td>4pm</td>
+            </tr>
+            <tr>
+                <th class="header">Talks</th>
+                <td class="location">TBD</td> 
+                <td colspan=5>Science</td>
+            </tr>
+            <tr>
+                <th class="header">Astronomy</th>
+                <td class="location">Court of Sciences</td>
+                <td colspan=5>Science</td>
+            </tr>
+
+            <tr>
+                <th class="header">Physics</th>
+                <td class="location">Physics and Astronomy Building</td>
+                <td colspan=5>Science</td>
+            </tr>
+            <tr>
+                <th class="header">Earth, Planetary and Space Sciences</th>
+                <td class="location">Geology Building</td>
+                <td colspan=5>Science</td>
+            </tr>
+            <tr>
+                <th class="header">Atmospheric and Oceanic Sciences</th>
+                <td class="location">Young Courtyard</td>
+                <td colspan=5>Science</td>
+            </tr>
+            <tr>
+                <th class="header">Chemistry</th>
+                <td class="location">Court of Sciences</td>
+                <td colspan=5>Science</td>
+            </tr>
+            <tr>
+                <th class="header">Biology</th>
+                <td class="location">Court of Sciences</td>
+                <td colspan=5>Science</td>
+            </tr>
+            <tr>
+                <th class="header">Engineering</th>
+                <td class="location">Court of Sciences</td>
+                <td colspan=5>Science</td>
+            </tr>
+            <tr>
+                <th class="header">Neuroscience</th>
+                <td class="location">Court of Sciences</td>
+                <td colspan=5>Science</td>
+            </tr>
+            <tr>
+                <th class="header">Math and Statistics</th>
+                <td class="location">Court of Sciences</td>
+                <td colspan=5>Science</td>
+            </tr>
+                
+
+        </table>
+
+
+        <h1 align=center>Nighttime Schedule</h1>
+        <table width=90% align=center>
+
+            <tr>
+                <th class="header">Event</th>
+                <td class="location">Location</td>
+                <td>5pm</td>
+                <td>6pm</td>
+                <td>7pm</td>    
+            </tr>
+
+            <tr>
+                <th class="header">Telescopes</th>
+                <td class="location">Roof of Math Building</td>
+                <td colspan=3>Observing</td>
+            </tr>
+
+            <tr>
+                <th class="header">Flash Wall</th>
+                <td class="location">Roof of Math Building</td>
+                <td colspan=3>Make Silhouettes</td>
+            </tr>
+
+            <tr>
+                <th class="header">Trippy Tunnel of Mystery</th>
+                <td class="location">Roof of Math Building</td>
+                <td colspan=3>Don't Come Drunk</td>
+            </tr>
+
+        </table>
+
+    <div style="border: 1px solid black" />
 
     </body>
 
