@@ -1,33 +1,23 @@
-th, td {
-    margin: 0;
-    text-align:center;
-    border-collapse: collapse;
-    outline: 1px solid #444444;
-    padding:10px;
+.container {
+    width:400px;
+    margin-left:auto;
+    
+    margin-right:auto;
 }
 
 
 
-table {
-    padding:20px;
+.expand-toggle {
+    border: 1px solid red;
 }
 
 
-.location {
-    background-color:#cccccc;
-    width:15%;
+
+.expand-content {
+    border: 1px solid blue;
+    display:none;
 }
 
-.header {
-    background-color:#aaaaaa;
-    width:15%;
+.expand-content.active {
+    display:block;
 }
-
-.night {
-    background-color:#eeeeee;
-}
-
-#night {
-    background-color:#eeeeee;
-}
-
