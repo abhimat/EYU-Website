@@ -1,14 +1,18 @@
 .container {
-    width:400px;
     margin-left:auto;
-    
+    width:80%;
     margin-right:auto;
 }
 
 
+.column {
+    width:40%;
+}
 
 .expand-toggle {
     border: 1px solid red;
+    margin-top:10px;
+    padding-left:20px;
 }
 
 
@@ -20,4 +24,14 @@
 
 .expand-content.active {
     display:block;
+}
+
+
+.left {
+    float:left;
+}
+
+
+.right {
+    float:right;
 }

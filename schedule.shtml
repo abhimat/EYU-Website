@@ -12,31 +12,53 @@
         <!--Container for the thing-->
         <div class="container">
 
-            <div class="expand-toggle">
-                <h1>Title Goes Here</h1>
-                <p>This is some content</p>
+            <div class="column left">
+                <div class="expand-toggle">
+                    <h1>Astronomy</h1>
+                    <p>Court of Sciences.</p>
+                    <p>12:00 - 5:00pm</p>
+                </div>
+
+                <div class="expand-content">
+                    <ul class="demo-list">
+                        <li>The Sun and Solar Telescopes</li>
+                        <li>Stars and Stellar Evolution</li>
+                        <li>Bottle Rocket Launches</li>
+                        <li>Comet Making Demo</li>
+                        <li>Pocket Solar System and Asteroids</li>
+                        <li>Constellation Detectives</li>
+                        <li>Gravity Demo - Investigate the Fabric of Spacetime</li>
+                        <li>Discover methods for finding new worlds beyond our solar system</li>
+                        <li>Ask an Astronomer</li>
+                        <li>BHE Gamma Ray Astronomy</li>
+                        <li>Celestron Telescopes</li>
+                        <li>Thirty Meter Telescope</li>
+                    </ul>
+                </div>
             </div>
 
-            <div class="expand-content">
-                <p>lwekrhwle;khqlwhre;</p>
-                <p>a;lskdfha;lskfha;sljf</p>
-            </div>
-
-        </div>
 
 
 
-        <!--Container for the thing-->
-        <div class="container">
+            <div class="column right">
+                <div class="expand-toggle">
+                    <h1>Physics</h1>
+                    <p>Physics and Astronomy Building</p>
+                    <p>12:00 - 5:00pm</p>
+                </div>
 
-            <div class="expand-toggle">
-                <h1>Title Goes Here</h1>
-                <p>This is some content</p>
-            </div>
-
-            <div class="expand-content">
-                <p>lwekrhwle;khqlwhre;</p>
-                <p>a;lskdfha;lskfha;sljf</p>
+                <div class="expand-content">
+                    <ul class="demo-list">
+                        <li>Lasers and Optics</li>
+                        <li>Sound and Waves</li>
+                        <li>Rotational Motion</li>
+                        <li>Electricity and Magnetism</li>
+                        <li>Optical Illusions</li>
+                        <li>Fluids and Buoyancy</li>
+                        <li>Arduino Robotics Club</li>
+                        <li>Elegant Minds Lab Tours</li>
+                    </ul>
+                </div>
             </div>
 
         </div>
