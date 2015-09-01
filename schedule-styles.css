@@ -1,6 +1,20 @@
+/*copied from styles.css*/
+body {
+    color: #444444;
+    background: #ffffff;
+    font-family: 'Source Sans Pro', Verdana, Sans-Serif;
+    font-size: 100%;
+    line-height: 1.5;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "kern" on;
+}
+
+
+
 .container {
     margin-left:auto;
-    width:80%;
+    width:70%;
     margin-right:auto;
 }
 
@@ -10,7 +24,7 @@
 }
 
 .expand-toggle {
-    border: 1px solid red;
+    border: 1px solid #444444;
     margin-top:10px;
     padding-left:20px;
 }
@@ -18,12 +32,18 @@
 
 
 .expand-content {
-    border: 1px solid blue;
+    border: 1px solid #444444;
     display:none;
 }
 
 .expand-content.active {
     display:block;
+}
+
+
+.expand-content ul {
+    list-style-type:none;
+    line-height:150%;
 }
 
 
