@@ -66,6 +66,11 @@ body {
     line-height:150%;
 }
 
+.expand-content li {
+    padding-left: 2em;
+    text-indent: -2em;
+}
+
 
 .left {
     float:left;
