@@ -3,6 +3,10 @@
 <html>
     <head>
         <title>EYU 2015 Schedule</title>
+		
+		<!-- Google Web Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
+		
         <link rel="stylesheet" href="./schedule-styles.css" type="text/css">
     </head>
 
@@ -21,18 +25,18 @@
 
                 <div class="expand-content">
                     <ul class="demo-list">
-                        <li>The Sun and Solar Telescopes</li>
-                        <li>Stars and Stellar Evolution</li>
-                        <li>Bottle Rocket Launches</li>
-                        <li>Comet Making Demo</li>
-                        <li>Pocket Solar System and Asteroids</li>
-                        <li>Constellation Detectives</li>
-                        <li>Gravity Demo - Investigate the Fabric of Spacetime</li>
-                        <li>Discover methods for finding new worlds beyond our solar system</li>
-                        <li>Ask an Astronomer</li>
-                        <li>BHE Gamma Ray Astronomy</li>
-                        <li>Celestron Telescopes</li>
-                        <li>Thirty Meter Telescope</li>
+                        <li>&#9312; The Sun and Solar Telescopes</li>
+                        <li>&#9313; Stars and Stellar Evolution</li>
+                        <li>&#9312; Bottle Rocket Launches</li>
+                        <li>&#9312; Comet Making Demo</li>
+                        <li>&#9313; Pocket Solar System and Asteroids</li>
+                        <li>&#9312; Constellation Detectives</li>
+                        <li>&#9312; Gravity Demo - Investigate the Fabric of Spacetime</li>
+                        <li>&#9312; Discover methods for finding new worlds beyond our solar system</li>
+                        <li>&#9312; Ask an Astronomer</li>
+                        <li>&#9312; BHE Gamma Ray Astronomy</li>
+                        <li>&#9312; Celestron Telescopes</li>
+                        <li>&#9312; Thirty Meter Telescope</li>
                     </ul>
                 </div>
             </div>
