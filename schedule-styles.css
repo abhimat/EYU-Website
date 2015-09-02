@@ -27,13 +27,25 @@ body {
     border: 1px solid #444444;
     margin-top:10px;
     padding-left:20px;
+    border-radius:10px 10px 0px 0px;
+}
+
+.expand-toggle p {
+    margin:5px;
+}
+
+.expand-toggle h1 {
+    margin-bottom:5px;
 }
 
 
 
 .expand-content {
     border: 1px solid #444444;
+    border-top:0px;
+    margin-top:0px;
     display:none;
+    border-radius:0px 0px 10px 10px;
 }
 
 .expand-content.active {
@@ -42,6 +54,8 @@ body {
 
 
 .expand-content ul {
+    margin-top:0px;
+    padding-top:16px;
     list-style-type:none;
     line-height:150%;
 }
