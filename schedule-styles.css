@@ -80,3 +80,21 @@ body {
 .right {
     float:right;
 }
+
+@media(max-width:720px) {
+    .left {
+        float:none;
+    }
+
+    .right {
+        float:none;
+    }
+
+    .column {
+        margin-right:auto;
+        margin-left:auto;
+        width:70%;
+    }
+
+}
+
