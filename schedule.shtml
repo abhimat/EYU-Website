@@ -18,7 +18,7 @@
             
             <div class="column left">
                 <div class="expand-toggle round-bottom">
-                    <h1>Astronomy</h1>
+                    <h2>Astronomy</h2>
                     <p>Court of Sciences.</p>
                     <p>12:00 - 5:00pm</p>
                 </div>
@@ -41,7 +41,7 @@
                 </div>
 
                 <div class="expand-toggle round-bottom">
-                    <h1>Earth, Planetary, and Space Sciences</h1>
+                    <h2>Earth, Planetary, and Space Sciences</h2>
                     <p>Geology Building</p>
                     <p>12:00 - 5:00pm</p>
                 </div>
@@ -60,7 +60,7 @@
                 </div>
  
                 <div class="expand-toggle round-bottom">
-                    <h1>Chemistry</h1>
+                    <h2>Chemistry</h2>
                     <p>Court of Sciences</p>
                     <p>12:00 - 5:00pm</p>
                 </div>
@@ -76,7 +76,7 @@
                 </div>
  
                 <div class="expand-toggle round-bottom">
-                    <h1>Engineering</h1>
+                    <h2>Engineering</h2>
                     <p>Court of Sciences</p>
                     <p>12:00 - 5:00pm</p>
                 </div>
@@ -92,7 +92,7 @@
                 </div>
  
                 <div class="expand-toggle round-bottom">
-                    <h1>Math and Statistics</h1>
+                    <h2>Math and Statistics</h2>
                     <p>Court of Sciences</p>
                     <p>12:00 - 5:00pm</p>
                 </div>
@@ -117,7 +117,7 @@
 
             <div class="column right">
                 <div class="expand-toggle round-bottom">
-                    <h1>Physics</h1>
+                    <h2>Physics</h2>
                     <p>Physics and Astronomy Building</p>
                     <p>12:00 - 5:00pm</p>
                 </div>
@@ -136,7 +136,7 @@
                 </div>
 
                 <div class="expand-toggle round-bottom">
-                    <h1>Atmospheric and Oceanic Sciences</h1>
+                    <h2>Atmospheric and Oceanic Sciences</h2>
                     <p>Young Courtyard</p>
                     <p>12:00 - 5:00pm</p>
                 </div>
@@ -155,7 +155,7 @@
 
 
                 <div class="expand-toggle round-bottom">
-                    <h1>Biology</h1>
+                    <h2>Biology</h2>
                     <p>Court of Sciences</p>
                     <p>12:00 - 5:00pm</p>
                 </div>
@@ -170,7 +170,7 @@
                 </div>
 
                  <div class="expand-toggle round-bottom">
-                    <h1>Neuroscience</h1>
+                    <h2>Neuroscience</h2>
                     <p>Court of Sciences</p>
                     <p>12:00 - 5:00pm</p>
                 </div>
