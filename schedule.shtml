@@ -11,9 +11,9 @@
 
         <!--Container for the thing-->
         <div class="container">
-
+            
             <div class="column left">
-                <div class="expand-toggle">
+                <div class="expand-toggle round-bottom">
                     <h1>Astronomy</h1>
                     <p>Court of Sciences.</p>
                     <p>12:00 - 5:00pm</p>
@@ -35,13 +35,84 @@
                         <li>Thirty Meter Telescope</li>
                     </ul>
                 </div>
+
+                <div class="expand-toggle round-bottom">
+                    <h1>Earth, Planetary, and Space Sciences</h1>
+                    <p>Geology Building</p>
+                    <p>12:00 - 5:00pm</p>
+                </div>
+
+                <div class="expand-content">
+                    <ul class="demo-list">
+                        <li>The Shocking World of Electricity</li>
+                        <li>Dinosaurs and Fossils</li>
+                        <li>Earth: Inside and Out</li>
+                        <li>Mineral Gallery</li>
+                        <li>Natural Disasters</li>
+                        <li>Meteorite Museum</li>
+                        <li>Build Your Own Hurricane</li>
+                        <li>Space Missions</li>
+                    </ul>
+                </div>
+ 
+                <div class="expand-toggle round-bottom">
+                    <h1>Chemistry</h1>
+                    <p>Court of Sciences</p>
+                    <p>12:00 - 5:00pm</p>
+                </div>
+
+                <div class="expand-content">
+                    <ul class="demo-list">
+                        <li>Super Cool Fun with Liquid Nitrogen</li>
+                        <li>Household Item Chemistry</li>
+                        <li>Everyday Chemistry</li>
+                        <li>Science and Food</li>
+                        <li>Science Behind Magic</li>
+                    </ul>
+                </div>
+ 
+                <div class="expand-toggle round-bottom">
+                    <h1>Engineering</h1>
+                    <p>Court of Sciences</p>
+                    <p>12:00 - 5:00pm</p>
+                </div>
+
+                <div class="expand-content">
+                    <ul class="demo-list">
+                        <li>Civil Engineers at Work</li>
+                        <li>Engineering Robots</li>
+                        <li>Nanoscience</li>
+                        <li>Explore how optics work.</li>
+                        <li>3D Projection</li>
+                    </ul>
+                </div>
+ 
+                <div class="expand-toggle round-bottom">
+                    <h1>Math and Statistics</h1>
+                    <p>Court of Sciences</p>
+                    <p>12:00 - 5:00pm</p>
+                </div>
+
+                <div class="expand-content">
+                    <ul class="demo-list">
+                        <li>Mobius Strips</li>
+                        <li>The Game of Nim</li>
+                        <li>The Largest Numbers</li>
+                        <li>The Liar Paradox</li>
+                        <li>Exploring Statistics</li>
+                    </ul>
+                </div>
+ 
+
+
+
             </div>
 
 
 
 
             <div class="column right">
-                <div class="expand-toggle">
+                <div class="expand-toggle round-bottom">
                     <h1>Physics</h1>
                     <p>Physics and Astronomy Building</p>
                     <p>12:00 - 5:00pm</p>
@@ -59,9 +130,59 @@
                         <li>Elegant Minds Lab Tours</li>
                     </ul>
                 </div>
-            </div>
 
+                <div class="expand-toggle round-bottom">
+                    <h1>Atmospheric and Oceanic Sciences</h1>
+                    <p>Young Courtyard</p>
+                    <p>12:00 - 5:00pm</p>
+                </div>
+
+                <div class="expand-content">
+                    <ul class="demo-list">
+                        <li>Exploding Marshmallows</li>
+                        <li>Can Crushing</li>
+                        <li>Tornado-in-a-bottle</li>
+                        <li>Cloud-in-a-bottle</li>
+                        <li>Portable Weather Station</li>
+                        <li>SpinLab</li>
+                    </ul>
+                </div>
+
+
+
+                <div class="expand-toggle round-bottom">
+                    <h1>Biology</h1>
+                    <p>Court of Sciences</p>
+                    <p>12:00 - 5:00pm</p>
+                </div>
+
+                <div class="expand-content">
+                    <ul class="demo-list">
+                        <li>Ecology and Evolutionary Biology</li>
+                        <li>STAR EcoStation</li>
+                        <li>Environmental Science</li>
+                        <li>UCLA Emergency Medical Services</li>
+                    </ul>
+                </div>
+
+                 <div class="expand-toggle round-bottom">
+                    <h1>Neuroscience</h1>
+                    <p>Court of Sciences</p>
+                    <p>12:00 - 5:00pm</p>
+                </div>
+
+                <div class="expand-content">
+                    <ul class="demo-list">
+                        <li>Brains!</li>
+                        <li>Psychology in Action</li>
+                    </ul>
+                </div>
+
+ 
+
+            </div>
         </div>
+
 
 
 
