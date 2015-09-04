@@ -173,13 +173,13 @@
                     </ul>
                 </div>
 
-                  <div class="expand-toggle down-arrow round-bottom">
-                    <h2 style="display:inline">Nighttime Activites</h2>
+                  <div class="expand-toggle down-arrow round-bottom nighttime">
+                    <h2 style="display:inline">Nighttime Activities</h2>
                     <p style="float:right">&#9660;</p>
                 </div>
 
                 <div class="expand-content">
-                    <ul class="demo-list">
+					<ul class="demo-list">
                         <li>Telescope Viewing</li>
                         <li>Flash Wall</li>
                     </ul>
