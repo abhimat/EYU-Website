@@ -311,7 +311,7 @@ article {
 	margin-right: auto;
 	
 	/*Rounding the corners*/
-	border-radius: 5px;
+	border-radius: 10px;
 }
 
 .block img {
@@ -458,4 +458,12 @@ a:hover {
 footer.wrap {
 	padding-top: 2em;
 	padding-bottom: 2em;
+}
+
+/*Slideshow Styles*/
+
+.slide-container {
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
 }
