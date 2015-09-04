@@ -136,6 +136,10 @@ p, ul, ol, table { margin-top: 1em; }
     padding-bottom:20px;
 }
 
+.nighttime {
+    color: #fff;
+    background-color: #115166;
+}
 
 /*Controll the arrows*/
 .arrow {
@@ -194,7 +198,7 @@ p, ul, ol, table { margin-top: 1em; }
     .column {
         margin-right:auto;
         margin-left:auto;
-        width:70%;
+        width:100%;
     }
 
 }
