@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    var arrows=["&#10506;", "&#10507;"];
+    var arrows=["&#9650;", "&#9660;"];
     //When the toggle div is clicked
     $(".expand-toggle").click(function() {
         $(this).next(".expand-content").slideToggle(300, "swing");
