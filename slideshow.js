@@ -1,8 +1,8 @@
 
 
-var images = ["Kittens-3-animals-34865509-1680-1050.jpg", "Cute-Kitten-kittens-16096566-1280-800.jpg", "cats-animals-kittens-background.jpg"];
+var images = ['Copy of IMG_20141116_162018927.jpg', 'IMG_0089.JPG', 'IMG_0113.JPG', 'IMG_0125.JPG', 'IMG_0184.JPG', 'IMG_0260.JPG', 'IMG_0313.JPG', 'IMG_0330.JPG', 'IMG_0350.JPG', 'IMG_0408.JPG', 'IMG_0414.JPG', 'IMG_0496.JPG'] ;
 var imgNum = 1;
-var imgDir = "images";
+var imgDir = "SlideshowPhotos";
 function setImage(image) {
     $(".slide-container").find("img").attr("src", image);
     setTimeout(function(){setImage(imgDir+"/"+images[imgNum++%images.length])}, 4000);
