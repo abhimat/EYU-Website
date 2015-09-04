@@ -11,16 +11,15 @@
     </head>
 
     <body>
-        
 
         <!--Container for the thing-->
         <div class="container">
             
             <div class="column left">
-                <div class="expand-toggle round-bottom">
-                    <h2>Astronomy</h2>
-                    <p>Court of Sciences.</p>
-                    <p>12:00 - 5:00pm</p>
+                <div class="expand-toggle down-arrow round-bottom">
+
+                    <h2 style="display:inline">Astronomy</h2>
+                    <p style="float:right">&#10225;</p>
                 </div>
 
                 <div class="expand-content">
@@ -40,10 +39,9 @@
                     </ul>
                 </div>
 
-                <div class="expand-toggle round-bottom">
-                    <h2>Earth, Planetary, and Space Sciences</h2>
-                    <p>Geology Building</p>
-                    <p>12:00 - 5:00pm</p>
+                <div class="expand-toggle down-arrow round-bottom">
+                    <h2 style="display:inline;">Earth, Planetary, and Space Sciences</h2>
+                    <p style="float:right">&#10225;</p>
                 </div>
 
                 <div class="expand-content">
@@ -59,10 +57,9 @@
                     </ul>
                 </div>
  
-                <div class="expand-toggle round-bottom">
-                    <h2>Chemistry</h2>
-                    <p>Court of Sciences</p>
-                    <p>12:00 - 5:00pm</p>
+                <div class="expand-toggle down-arrow round-bottom">
+                    <h2 style="display:inline">Chemistry</h2>
+                    <p style="float:right">&#10225;</p>
                 </div>
 
                 <div class="expand-content">
@@ -75,10 +72,9 @@
                     </ul>
                 </div>
  
-                <div class="expand-toggle round-bottom">
-                    <h2>Engineering</h2>
-                    <p>Court of Sciences</p>
-                    <p>12:00 - 5:00pm</p>
+                <div class="expand-toggle down-arrow round-bottom">
+                    <h2 style="display:inline">Engineering</h2>
+                    <p style="float:right">&#10225;</p>
                 </div>
 
                 <div class="expand-content">
@@ -91,10 +87,9 @@
                     </ul>
                 </div>
  
-                <div class="expand-toggle round-bottom">
-                    <h2>Math and Statistics</h2>
-                    <p>Court of Sciences</p>
-                    <p>12:00 - 5:00pm</p>
+                <div class="expand-toggle down-arrow round-bottom">
+                    <h2 style="display:inline">Math and Statistics</h2>
+                    <p style="float:right">&#10225;</p>
                 </div>
 
                 <div class="expand-content">
@@ -116,10 +111,9 @@
 
 
             <div class="column right">
-                <div class="expand-toggle round-bottom">
-                    <h2>Physics</h2>
-                    <p>Physics and Astronomy Building</p>
-                    <p>12:00 - 5:00pm</p>
+                <div class="expand-toggle down-arrow round-bottom">
+                    <h2 style="display:inline">Physics</h2>
+                    <p style="float:right">&#10225;</p>
                 </div>
 
                 <div class="expand-content">
@@ -135,10 +129,9 @@
                     </ul>
                 </div>
 
-                <div class="expand-toggle round-bottom">
-                    <h2>Atmospheric and Oceanic Sciences</h2>
-                    <p>Young Courtyard</p>
-                    <p>12:00 - 5:00pm</p>
+                <div class="expand-toggle down-arrow round-bottom">
+                    <h2 style="display:inline">Atmospheric and Oceanic Sciences</h2>
+                    <p style="float:right">&#10225;</p>
                 </div>
 
                 <div class="expand-content">
@@ -154,10 +147,9 @@
 
 
 
-                <div class="expand-toggle round-bottom">
-                    <h2>Biology</h2>
-                    <p>Court of Sciences</p>
-                    <p>12:00 - 5:00pm</p>
+                <div class="expand-toggle down-arrow round-bottom">
+                    <h2 style="display:inline">Biology</h2>
+                    <p style="float:right">&#10225;</p>
                 </div>
 
                 <div class="expand-content">
@@ -169,10 +161,9 @@
                     </ul>
                 </div>
 
-                 <div class="expand-toggle round-bottom">
-                    <h2>Neuroscience</h2>
-                    <p>Court of Sciences</p>
-                    <p>12:00 - 5:00pm</p>
+                 <div class="expand-toggle down-arrow round-bottom">
+                    <h2 style="display:inline">Neuroscience</h2>
+                    <p style="float:right">&#10225;</p>
                 </div>
 
                 <div class="expand-content">
@@ -182,7 +173,19 @@
                     </ul>
                 </div>
 
- 
+                  <div class="expand-toggle down-arrow round-bottom">
+                    <h2 style="display:inline">Nighttime Activites</h2>
+                    <p style="float:right">&#10225;</p>
+                </div>
+
+                <div class="expand-content">
+                    <ul class="demo-list">
+                        <li>Telescope Viewing</li>
+                        <li>Flash Wall</li>
+                    </ul>
+                </div>
+
+
 
             </div>
         </div>

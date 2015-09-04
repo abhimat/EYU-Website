@@ -90,6 +90,16 @@ p, ul, ol, table { margin-top: 1em; }
 
 
 
+
+
+.header {
+    text-align:center;
+}
+
+.header h1 {
+    margin-bottom:10px;
+}
+
 .container {
     margin-left:auto;
     width:70%;
@@ -100,7 +110,7 @@ p, ul, ol, table { margin-top: 1em; }
 
 
 .column {
-    width:40%;
+    width:48.5%;
     padding-top:20px;
 }
 
@@ -109,14 +119,28 @@ p, ul, ol, table { margin-top: 1em; }
     margin-top:20px;
     padding-left:20px;
     border-radius:10px 10px 0px 0px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    overflow:hidden;
 }
 
 .expand-toggle p {
-    margin:5px;
+    margin:0px;
 }
 
 .expand-toggle h1 {
     margin-bottom:5px;
+    width:50%
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+
+/*Controll the arrows*/
+.arrow {
+    float:right;
+    content: &#10225;
 }
 
 .round-bottom {
@@ -126,8 +150,7 @@ p, ul, ol, table { margin-top: 1em; }
 .expand-content {
     border: 1px solid #444444;
     border-top:0px;
-    margin-top:-40px;
-    padding-top:40px;
+    padding-right:2em;
     display:none;
     border-radius:0px 0px 10px 10px;
 }
@@ -176,3 +199,14 @@ p, ul, ol, table { margin-top: 1em; }
 
 }
 
+
+
+
+.boundary {
+    margin:20px;
+    margin-top:60px;
+    border: 1px solid #444444;
+    width:90%;
+    margin-left:auto;
+    margin-right:auto;
+}
