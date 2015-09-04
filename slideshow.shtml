@@ -1,0 +1,27 @@
+<!--- html container for slidshow widget -->
+
+<html>
+    <head>
+        <link rel="stylesheet" href="slideshow-style.css" type="text/css">
+    
+    </head>
+
+    <body>
+        <div class="slide-container">
+
+            <img src="" width="100%" />
+
+        </div>
+
+
+
+        <script src="jquery-1.11.1.min.js"></script> 
+        <script src="slideshow.js"></script>
+    </body>
+
+
+
+
+
+
+</html>
