@@ -110,12 +110,16 @@ figure {
 		float: left;
 		max-width: 50%;
 		margin: 0 1em 1.5em 0;
+		
+		left: 50%;
 	}
 	
 	.pull-right {
 		float: right;
 		max-width: 50%;
 		margin: 0 0 1.5em 1em;
+
+		right:50%
 	}
 
 	/*header figure.float {
@@ -466,4 +470,21 @@ footer.wrap {
     width:100%;
     margin-left:auto;
     margin-right:auto;
+}
+
+/*Sponsor Styles*/
+
+table.sponsor {
+	width: 100%;
+}
+
+table.sponsor td {
+	vertical-align: middle;
+	border: 1px;
+	width: 50%;
+}
+
+table.sponsor td h3, h4 {
+	text-align: center;
+	margin: 0em;
 }

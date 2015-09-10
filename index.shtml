@@ -44,11 +44,12 @@
 				<hr>
 				<p><strong>Free Admission!</strong><br>(UCLA Parking: $12)</p>
 			</div>
-		</figure>
+		</div>
 	</header>
 
 	<div class="content wrap">
 		<section class="blocks">
+			
 			<article class="block"><!-- Slideshow block -->
 				<div class="slide-container">
 					<img src="" width="100%" />
@@ -56,13 +57,32 @@
 				<script src="jquery-1.11.1.min.js"></script>
 				<script src="slideshow.js"></script>
 			</article> <!-- Description /block -->	
+			
 			<article class="block"><!-- Description block -->
 				<p>Get ready for the most exciting day of science all year, the seventh annual Exploring Your Universe! This event is <em>free</em> of charge to the public and <em>family friendly</em>!</p>
 			</article> <!-- Description /block -->
+			
 			<article class="block"><!-- Sponsor block -->
 				<center><h3><em>Sponsored by</em></h3></center>
-				<p><em>Sponsor logos and/or names can go here!</em></p>
+				<table class="sponsor">
+					<tbody>
+						<tr>
+							<td>
+								<object type="image/svg+xml"
+								    width=95%
+								    data="SponsorLogos/Celestron.svg">
+								  <span/></object>
+							</td>
+							<td><h3>Mani Bhaumik</h3></td>
+						</tr>
+						<tr>
+							<td><h4>Department 1</h4></td>
+							<td><h4>Department 2</h4></td>
+						</tr>
+					</tbody>
+				</table>
 			</article> <!-- Sponsor /block -->
+		
 		</section><!-- /blocks -->
 	</div> <!-- /content -->
 	
