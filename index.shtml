@@ -67,18 +67,18 @@
 				<table class="sponsor">
 					<tbody>
 						<tr>
+							<td><h3>Mani Bhaumik</h3></td>
 							<td>
 								<object type="image/svg+xml"
 								    width=95%
 								    data="SponsorLogos/Celestron.svg">
 								  <span/></object>
 							</td>
-							<td><h3>Mani Bhaumik</h3></td>
 						</tr>
-						<tr>
+						<!-- <tr>
 							<td><h4>Department 1</h4></td>
 							<td><h4>Department 2</h4></td>
-						</tr>
+						</tr> -->
 					</tbody>
 				</table>
 			</article> <!-- Sponsor /block -->
