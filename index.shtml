@@ -42,12 +42,18 @@
 				<h2>UCLA Campus<br>Court of Sciences</h2></span>
 				<p><strong>Noon&ndash;5 pm</strong><br>Nighttime Activities: 5 pm&ndash;8 pm</p>
 				<hr>
-				<p><strong>Free Admission!</strong><br>(UCLA Parking: $12)</p>
+				<p><strong>Free Admission!</strong><br>(UCLA Parking: $8)</p>
 			</div>
 		</div>
 	</header>
-
+	
 	<div class="content wrap">
+		<center><ul class="pages">
+			<li><strong>Home</strong></li>
+			<li><a href="./getinvolved/">Get Involved</a></li>
+			<li><a href="https://giving.ucla.edu/Standard/NetDonate.aspx?Code=M-2523&Finder=F-123456&ID=9999999999&LName=Caulfield&SiteNum=977">Donate</a></li>
+		</ul></center>
+		
 		<section class="blocks">
 			
 			<article class="block"><!-- Slideshow block -->
@@ -67,7 +73,12 @@
 				<table class="sponsor">
 					<tbody>
 						<tr>
-							<td><h3>Mani Bhaumik</h3></td>
+							<td><h3>UCLA Division of<br>Physical Sciences</h3></td>
+							<td><h3>Mani L. Bhaumik</h3></td>
+						</tr>
+						
+						<tr>
+							<td><h3>Chris Russell</h3></td>
 							<td>
 								<object type="image/svg+xml"
 								    width=95%
