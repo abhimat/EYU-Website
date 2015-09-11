@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!--
+ 
+      Static EYU 2015: Get Involved webpage by Abhimat Gautam.
+  
+-->
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+		<title>EYU 2015: Get Involved</title>
+		
+		<!-- Google Web Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
+		
+		<meta name=viewport content='width=device-width, initial-scale=1'>
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="./favicon.png">
+		<link rel="apple-touch-icon" href="./touch-icon.png">
+		
+		<!-- Styles -->
+		<link rel="stylesheet" href="../styles_subpage.css" type="text/css" media="screen" />
+</head>
+<body>
+	<header>
+		<figure class="logo-panel">
+			<div class="logo-container">
+				<object type="image/svg+xml"
+				    width=95%
+				    data="../ColorLogo.svg">
+				  <span/></object>
+			  </div>
+			<!-- <img src="ColorLogo.svg" alt="EYU Color Logo"> -->
+		</figure>
+		<div class="info-panel">
+			<div class="info-text">
+				<h1>Get Involved</h1>
+			</div>
+		</div>
+	</header>
+	
+	<div class="content wrap">
+		<center><ul class="pages">
+			<li><a href="../">Home</a></li>
+			<li><strong>Get Involved</strong></li>
+			<li><a href="https://giving.ucla.edu/Standard/NetDonate.aspx?Code=M-2523&Finder=F-123456&ID=9999999999&LName=Caulfield&SiteNum=977">Donate</a></li>
+		</ul></center>
+		
+		<section class="blocks">
+			
+			<article class="block"><!-- Main Text block -->
+				<p>Get involved text!</p>
+			</article> <!-- Main Text /block -->
+			
+		</section><!-- /blocks -->
+	</div> <!-- /content -->
+	
+	<footer class="small wrap">
+		<!-- <center><p class="small">Website designed by Abhimat Gautam</p></center> -->
+	</footer>
+</body>
+</html>
