@@ -1,60 +1,14 @@
-<!DOCTYPE html>
-<!--
- 
-      Static EYU 2015: Get Involved webpage by Abhimat Gautam.
-  
--->
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-		<title>EYU 2015: Get Involved</title>
-		
-		<!-- Google Web Fonts -->
-		<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
-		
-		<meta name=viewport content='width=device-width, initial-scale=1'>
-		<!--[if lt IE 9]>
-			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
-		
-		<!-- Favicon -->
-		<link rel="shortcut icon" href="./favicon.png">
-		<link rel="apple-touch-icon" href="./touch-icon.png">
-		
-		<!-- Styles -->
-        <link rel="stylesheet" href="../FAQ-styles.css" type="text/css" media="screen" />
-		<link rel="stylesheet" href="../styles_subpage.css" type="text/css" media="screen" />
-</head>
-<body>
-	<header>
-		<figure class="logo-panel">
-			<div class="logo-container">
-				<object type="image/svg+xml"
-				    width=95%
-				    data="../ColorLogo.svg">
-				  <span/></object>
-			  </div>
-			<!-- <img src="ColorLogo.svg" alt="EYU Color Logo"> -->
-		</figure>
-		<div class="info-panel">
-			<div class="info-text">
-				<h1>Get Involved</h1>
-			</div>
-		</div>
-	</header>
-	
-	<div class="content wrap">
-		<center><ul class="pages">
-			<li><a href="../">Home</a></li>
-			<li><strong>Get Involved</strong></li>
-			<li><a href="https://giving.ucla.edu/Standard/NetDonate.aspx?Code=M-2523&Finder=F-123456&ID=9999999999&LName=Caulfield&SiteNum=977">Donate</a></li>
-		</ul></center>
-		
-		<section class="blocks">
-			
-			<article class="block"><!-- Main Text block -->
+<html>
+    <head>
+        <title>FAQ</title>
+        <link rel="stylesheet" href="./FAQ-styles.css" type="text/css">
+
+    </head>
+
+
+    <body>
         <h2 style="text-align:center;">FAQ</h2>
-        <h3>UCLA Groups</h3>
+        <h3 style="margin-left:10%;">UCLA Groups</h3>
         <div class="container">
             <div class="expand-toggle down-arrow round-bottom">
                 <h3 style="display:inline">Who should get involved?</h3>
@@ -62,7 +16,7 @@
             </div>
             <div class="expand-content">
                 <ul>
-                    <li>UCLA graduate and undergraduate student groups with a  STEM connection.
+                    <li>UCLA graduate and undergraduate student groups with a STEM connection.
                     <li>UCLA graduate students and faculty who would like to give a public talk.
                 </ul>
             </div>
@@ -73,7 +27,7 @@
             <div class="expand-content">
                 <ul>
                     <li>Host a booth where you interact with the public.</li>
-                    <li>Demonstrate scientific concepts using hands-on demons trations and activities.
+                    <li>Demonstrate scientific concepts using hands-on demonstrations and activities.
                     <li>Setup/cleanup</li>
                     <li>Organize your own volunteers to man your booth.</li>
                 </ul>
@@ -85,8 +39,8 @@
             <div class="expand-content">
                 <ul>
                     <li>EYU provides you with the booth itself (10x10' tent, one table, two chairs, more available upon request) for free.</li>
-                <li>You are responsibe for buying your own supplies, but we do apply for CPC funding as an organization. You can submit a budger proposal to our fundraising coordinator and some of your supplies <i>may</i> be payed for.</li>
-
+                    <li>You are responsibe for buying your own supplies, but we do apply for CPC funding as an organization. You can submit a budger proposal to our fundraising coordinator and some of your supplies <i>may</i> be payed for.</li>
+                    
                 </ul>
             </div>
               <div class="expand-toggle down-arrow round-bottom">
@@ -94,7 +48,7 @@
                 <p style="float:right">&#9660;</p>
             </div>
             <div class="expand-content">
-                <p>Yes, but you will need to run your products by our merchandise coordinator.</p>
+                <p>Yes, but you will need to run your products by our merchandise coordinator.</p>        
             </div>
                <div class="expand-toggle down-arrow round-bottom">
                 <h3 style="display:inline">How do I reserve a booth?</h3>
@@ -107,9 +61,9 @@
                     <li>Send supplies budget request to fundraising coordinator by September 20th.</li>
                 </ul>
             </div>
-
+ 
         </div>
-        <h3>Non-UCLA Groups</h3>
+        <h3 style="margin-left:10%;">Non-UCLA Groups</h3>
         <div class="container">
                 <div class="expand-toggle down-arrow round-bottom">
                 <h3 style="display:inline">How can we get involved?</h3>
@@ -118,15 +72,21 @@
             <div class="expand-content">
                 <p>Non-UCLA groups, corporations, and individuals are asked to make a donation (either monetary or product) in order to reserve a booth at our event. Please contact our fundraising coordinator for more information.</p>
             </div>
-        </article> <!-- Main Text /block -->
-			
-		</section><!-- /blocks -->
-	</div> <!-- /content -->
-	<script src="../jquery-1.11.1.min.js"></script>
-    <script src="../expand.js"></script>
+         
 
-	<footer class="small wrap">
-		<!-- <center><p class="small">Website designed by Abhimat Gautam</p></center> -->
-	</footer>
-</body>
+
+
+        </div>
+
+
+
+
+
+
+    <!--- scripts-->
+    <script src="jquery-1.11.1.min.js"></script>
+    <script src="expand.js"></script>
+
+    </body>
+
 </html>
