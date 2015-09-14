@@ -54,7 +54,6 @@
 			
 			<article class="block"><!-- Main Text block -->
         <h2 style="text-align:center;">FAQ</h2>
-        <h3>UCLA Groups</h3>
         <div class="container">
             <div class="expand-toggle down-arrow round-bottom">
                 <h3 style="display:inline">Who should get involved?</h3>
@@ -64,6 +63,10 @@
                 <ul>
                     <li>UCLA graduate and undergraduate student groups with a  STEM connection.
                     <li>UCLA graduate students and faculty who would like to give a public talk.
+                </ul>
+                
+                <ul>
+                    <li>Non-UCLA groups, corporations, and individuals are asked to make a donation (either monetary or product) in order to reserve a booth at our event. Please contact our fundraising coordinator or <a href="https://giving.ucla.edu/Standard/NetDonate.aspx?Code=M-2523&Finder=F-123456&ID=9999999999&LName=Caulfield&SiteNum=977">click here</a> for more information.</li>
                 </ul>
             </div>
             <div class="expand-toggle down-arrow round-bottom">
@@ -94,8 +97,31 @@
                 <p style="float:right">&#9660;</p>
             </div>
             <div class="expand-content">
-                <p>Yes, but you will need to run your products by our merchandise coordinator.</p>
+                <ul>
+                    <li>Yes, but you will need to run your products by our merchandise coordinator.</li>
+                </ul>
+                <ul>
+                    <li>We also give out small bags of giveaways for kids during the event. We are always looking for more materials to fill our giveaway bags (stickers, bookmarks, small toys, posters, etc). Please contact our merchandise coordinator if you would like to donate SWAG.</li>
+                </ul>
             </div>
+
+
+              <div class="expand-toggle down-arrow round-bottom">
+                <h3 style="display:inline">Are there examples of booths?</h3>
+                <p style="float:right">&#9660;</p>
+            </div>
+            <div class="expand-content">
+                <ul>
+                    <li>Yes, the links below are to videos of the kind of things that people will do at booths.</li>
+                    <li><a href="https://www.youtube.com/watch?v=iDVCq1fKeUE">Chemistry Demos</a></li>
+                    <li><a href="http://demoweb.physics.ucla.edu/instructional-videos">Physics Demos</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=lixw-q6Wj7Y">EYU 2011</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=BOW07mzu1XQ">EYU 2012</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=2smK1yIgmQw">EYU 2013</a></li>
+            </div>
+ 
+
+
                <div class="expand-toggle down-arrow round-bottom">
                 <h3 style="display:inline">How do I reserve a booth?</h3>
                 <p style="float:right">&#9660;</p>
@@ -109,16 +135,7 @@
             </div>
 
         </div>
-        <h3>Non-UCLA Groups</h3>
-        <div class="container">
-                <div class="expand-toggle down-arrow round-bottom">
-                <h3 style="display:inline">How can we get involved?</h3>
-                <p style="float:right">&#9660;</p>
-            </div>
-            <div class="expand-content">
-                <p>Non-UCLA groups, corporations, and individuals are asked to make a donation (either monetary or product) in order to reserve a booth at our event. Please contact our fundraising coordinator for more information.</p>
-            </div>
-        </article> <!-- Main Text /block -->
+       </article> <!-- Main Text /block -->
 			
 		</section><!-- /blocks -->
 	</div> <!-- /content -->
