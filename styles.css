@@ -384,6 +384,14 @@ a:hover {
 	font-weight: 600;
 }
 
+.block hr {
+	width: 40%;
+	margin: 1em auto;
+	height: 2px;
+	border: 0 none;
+	background-color: #DDD;
+}
+
 .quote blockquote {
 	padding: 0;
 	border: none;
@@ -500,7 +508,17 @@ table.sponsor td {
 	width: 50%;
 }
 
+table.sponsor td.full {
+	vertical-align: middle;
+	border: 1px;
+	width: 100%;
+}
+
 table.sponsor td h3, h4 {
 	text-align: center;
 	margin: 0em;
+}
+
+.block h3.emptySponsor, h4.emptySponsor {
+	color: #DDD;
 }
