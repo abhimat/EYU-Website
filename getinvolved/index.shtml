@@ -54,7 +54,7 @@
 		<section class="blocks">
 			
 			<article class="block"><!-- Main Text block -->
-        <h2 style="text-align:center;">FAQ</h2>
+        <!-- <h2 style="text-align:center;">FAQ</h2> -->
         <div class="container">
             <div class="expand-toggle down-arrow round-bottom">
                 <h3 style="display:inline">Who should get involved?</h3>
