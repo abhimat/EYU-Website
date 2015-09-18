@@ -58,10 +58,8 @@
 			
 			<article class="block"><!-- Slideshow block -->
 				<div class="slide-container">
-					<img src="" width="100%" />
+					<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9tYAgoxQrq4?rel=0" frameborder="0" allowfullscreen></iframe>
 				</div>
-				<script src="jquery-1.11.1.min.js"></script>
-				<script src="slideshow.js"></script>
 			</article> <!-- Description /block -->	
 			
 			<article class="block"><!-- Description block -->
