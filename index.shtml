@@ -42,7 +42,7 @@
 				<h2>UCLA Campus<br>Court of Sciences</h2></span>
 				<p><strong>Noon&ndash;5 pm</strong><br>Nighttime Activities: 5 pm&ndash;8 pm</p>
 				<hr>
-				<p><strong>Free Admission!</strong><br>(UCLA Parking: $8)</p>
+				<p><strong>Free Admission!</strong><br>(UCLA Parking: $12)</p>
 			</div>
 		</div>
 	</header>
@@ -64,14 +64,14 @@
 			</article> <!-- Description /block -->	
 			
 			<article class="block"><!-- Description block -->
-				<p>Get ready for the most exciting day of science all year, the seventh annual Exploring Your Universe! This event is <em>free</em> of charge to the public and <em>family friendly</em>!</p>
+				<p>Get ready for the most exciting day of science all year, the seventh annual Exploring Your Universe! This event is <em>free</em> of charge and <em>family friendly</em>!</p>
 			</article> <!-- Description /block -->
 			
 			<article class="block"><!-- Sponsor block -->
-				<center><h3><em>Sponsored by</em></h3></center>
+				<center><h3><em>EYU 2015 is sponsored by</em></h3></center>
 				<!-- Supergiant Sponsors -->
 				<center><p>Supergiant Sponsors</p></center>
-				<table class="sponsor">
+				<table class="sponsor-first">
 					<tbody>
 						<tr>
 							<td>
@@ -81,33 +81,56 @@
 								<h3>Chris Russell</h3>
 							</td>
 						</tr>
-						
+					</tbody>
+				</table>
+				<table class="sponsor">
+					<tbody>	
 						<tr>
-							<td>
-								<img src="SponsorLogos/UCLACollegePhysicalSciences.png">
+							<td class="full">
+								<img width=30% src="SponsorLogos/UCLACollegePhysicalSciences.png">
 							</td>
-							<td>
+							<!-- <td>
 								<h3 class="emptySponsor">&#x25CC;</h3>
-							</td>
+							</td> -->
 						</tr>
+					</tbody>
+				</table>
+				
+				<!-- Galaxy Sponsors -->
+				<hr>
+				<center><p>Galaxy Sponsors</p></center>
+				<table class="sponsor-first">
+					<tbody>
+						<tr>
+							<td class="full">
+								<h3>UCLA<br>Galactic Center Group</h3>
+							</td>
+							<!-- <td>
+								<h4 class="emptySponsor">&#x25CC;</h4>
+							</td> -->
+						</tr>
+						<!-- <tr>
+							<td><h4>Department 1</h4></td>
+							<td><h4>Department 2</h4></td>
+						</tr> -->
 					</tbody>
 				</table>
 				
 				<!-- Shooting Star Sponsors -->
 				<hr>
 				<center><p>Shooting Star Sponsors</p></center>
-				<table class="sponsor">
+				<table class="sponsor-first">
 					<tbody>
 						<tr>
-							<td>
-								<object type="image/svg+xml"
-								    width=95%
+							<td class="full">
+								<center><object type="image/svg+xml"
+								    width=30%
 								    data="SponsorLogos/Celestron.svg">
-								  <span/></object>
+								  <span/></object></center>
 							</td>
-							<td>
+							<!-- <td>
 								<h4 class="emptySponsor">&#x25CC;</h4>
-							</td>
+							</td> -->
 						</tr>
 						<!-- <tr>
 							<td><h4>Department 1</h4></td>
