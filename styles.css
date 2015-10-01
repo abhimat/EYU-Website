@@ -315,7 +315,7 @@ article {
 	margin-right: auto;
 	
 	/*Rounding the corners*/
-	border-radius: 10px;
+	border-radius: 0px;
 }
 
 .block img {
