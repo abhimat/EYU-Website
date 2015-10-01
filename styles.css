@@ -498,23 +498,35 @@ footer.wrap {
 
 /*Sponsor Styles*/
 
-table.sponsor {
+table.sponsor-first {
 	width: 100%;
+	/*margin: 0em;*/
 }
 
-table.sponsor td {
+table.sponsor {
+	width: 100%;
+	margin: 0em;
+}
+
+table.sponsor tr, table.sponsor-first tr {
+	margin.bottom = 0em;
+}
+
+table.sponsor td, table.sponsor-first td {
+	margin.bottom = 0em;
 	vertical-align: middle;
 	border: 1px;
 	width: 50%;
 }
 
-table.sponsor td.full {
+table.sponsor td.full, table.sponsor-first td.full {
+	margin.bottom = 0em;
 	vertical-align: middle;
 	border: 1px;
 	width: 100%;
 }
 
-table.sponsor td h3, h4 {
+table.sponsor td h3, table.sponsor-first td h3, h4 {
 	text-align: center;
 	margin: 0em;
 }
