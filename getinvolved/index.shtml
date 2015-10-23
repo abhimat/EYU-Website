@@ -144,7 +144,7 @@
     <script src="../expand.js"></script>
 
 	<footer class="small wrap">
-		<!-- <center><p class="small">Website designed by Abhimat Gautam</p></center> -->
+		<center><p class="small">Website designed by<br>Abhimat Gautam and Michael Topping</p></center>
 	</footer>
 </body>
 </html>
