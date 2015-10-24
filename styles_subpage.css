@@ -188,6 +188,10 @@ header:after {
 		height: 200px;
 		position: relative;
 	}
+    
+    header h1 {
+        text-align: right;
+    }
 	
 	.logo-panel {
 		width: 200px;
@@ -199,12 +203,16 @@ header:after {
 		
 		position: absolute;
 		display: table;
+        
+        padding-left: 7em;
 	}
 	
 	.logo-container {
 		display: table-cell;
 		vertical-align: middle;
 		text-align: center;
+        
+        
 	}
 	
 	.info-panel {
@@ -225,6 +233,8 @@ header:after {
 		vertical-align: middle;
 		text-align: center;
 		
+        padding-right: 9em;
+        
 		/*display: inline-block;
 		vertical-align: middle;
 
@@ -385,6 +395,14 @@ a:hover {
 	font-weight: 600;
 }
 
+.block hr {
+	width: 10%;
+	margin: 1em auto;
+	height: 2px;
+	border: 0 none;
+	background-color: #DDD;
+}
+
 .quote blockquote {
 	padding: 0;
 	border: none;
@@ -488,4 +506,43 @@ table.sponsor td {
 table.sponsor td h3, h4 {
 	text-align: center;
 	margin: 0em;
+}
+
+/*Sponsor Styles*/
+
+table.sponsor-first {
+	width: 100%;
+	/*margin: 0em;*/
+}
+
+table.sponsor {
+	width: 100%;
+	margin: 0em;
+}
+
+table.sponsor tr, table.sponsor-first tr {
+	margin.bottom = 0em;
+}
+
+table.sponsor td, table.sponsor-first td {
+	margin.bottom = 0em;
+	vertical-align: middle;
+	border: 1px;
+	width: 50%;
+}
+
+table.sponsor td.full, table.sponsor-first td.full {
+	margin.bottom = 0em;
+	vertical-align: middle;
+	border: 1px;
+	width: 100%;
+}
+
+table.sponsor td h3, table.sponsor-first td h3, h4 {
+	text-align: center;
+	margin: 0em;
+}
+
+.block h3.emptySponsor, h4.emptySponsor {
+	color: #DDD;
 }
