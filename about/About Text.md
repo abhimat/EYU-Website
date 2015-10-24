@@ -3,8 +3,10 @@ Exploring Your Universe 2015 is made possible by all of our amazing partners, co
 ## Participating Groups
 
 ### UCLA Partners
+<center>*To be announced*</center>
 
 ### Community Partners
+<center>*To be announced*</center>
 
 ##  Organizing Committee
 Exploring Your Universe 2015 was put together with the help of all members of the 2015 EYU Organizing Committee:
