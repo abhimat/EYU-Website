@@ -1,3 +1,5 @@
+Exploring Your Universe is an annual science outreach day held on the UCLA campus, filled with exciting science demos, activities, and talks.
+
 Exploring Your Universe 2015 is made possible by the amazing hard work of our coordinators, participating groups, and sponsors.
 
 ## Organizing Committee
@@ -18,7 +20,7 @@ Exploring Your Universe 2015 was put together with the help of all members of th
 ## Participating Groups
 
 ### UCLA Partners
-<center><em>To be announced</em></center>
+<center><p><em>To be announced</em></p></center>
 
 ### Community Partners
-<center><em>To be announced</em></center>
+<center><p><em>To be announced</em></p></center>
