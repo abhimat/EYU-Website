@@ -31,7 +31,7 @@
 
 .expand-toggle h1 {
     margin-bottom:5px;
-    width:50%
+    width:50%;
     padding-top:20px;
     padding-bottom:20px;
 }
@@ -68,13 +68,14 @@
     margin-top:0px;
     padding-top:0.5em;
 	padding-bottom:0.5em;
+	padding-left: 1em;
     list-style-type:none;
     line-height:150%;
 }
 
 .expand-content li {
-    padding-left: 2em;
-    text-indent: -2em;
+    padding-left: 1.5em;
+    text-indent: -1.5em;
 }
 
 
