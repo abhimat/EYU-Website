@@ -1,117 +1,17 @@
 /*copied from styles.css*/
 /*Typography*/
 
-body {
-	color: #444444;
-	background: #ffffff;
-	font-family: 'Source Sans Pro', Verdana, Sans-Serif;
-	font-size: 100%;
-	line-height: 1.5;
-	font-weight: 400;
-	text-rendering: optimizeLegibility;
-	font-feature-settings: "kern" on;
-}
-
-h1, h2, h3, h4, .h1, .h2, .h3, .h4 {
-/*	font-family: Futura, 'Century Gothic', AppleGothic, sans-serif;*/
-	font-family: 'Source Sans Pro', Verdana, Sans-Serif;
-	font-weight: 600;
-	text-rendering: optimizeLegibility;
-	font-feature-settings: "kern" on;
-}
-
-h1, h2, .h1, .h2 {
-	line-height: 0.95;
-	margin-top: .5em;
-}
-
-h1, .h1 {
-	font-weight: 700;
-	font-size: 24px;
-}
-
-h1 em {
-	font-weight: 700;
-	font-size: 18px;
-}
-
-h2, .h2 {
-	font-weight: 600;
-	font-size: 18px;
-}
-
-h3, .h3 {
-	font-weight: 600;
-	font-size: 16px;
-}
-
-h1+h2 { margin-top: 0; }
-
-p, .p, ul, ol, table {
-	font-size: 16px;
-}
-
-small, .small {
-	font-size: 14px;
-}
-
-semibold, .semibold {
-	font-weight: 600;
-}
-
-strong, .strong {
-	font-weight: 700;
-}
-
-ultrabold, .ultrabold {
-	font-weight: 900;
-}
-
-imagecaption, .imagecaption {
-	font-size: 14px;
-}
-
-p, ul, ol, table { margin-top: 1em; }
-
-@media screen and (min-width: 480px) {
-	h1, .h1 { font-size: 42px; }
-	h2, .h2 { font-size: 26px; }
-	h3, .h3 { font-size: 22px; }
-	p, .p, ul, ol, table { font-size: 20px;}
-	small, .small { font-size: 16px;}
-	imagecaption, .imagecaption { font-size: 16px;}
-}	
-
-@media screen and (min-width: 640px) {
-	h1, .h1 { font-size: 54px; }
-	h2, .h2 { font-size: 28px; } 
-	h3, .h3 { font-size: 24px; }
-}
-
-
-
-
-
-.header {
-    text-align:center;
-}
-
-.header h1 {
-    margin-bottom:10px;
-}
-
 .container {
     margin-left:auto;
-    width:70%;
+    width:100%;
     margin-right:auto;
     display:block;
     overflow:hidden;
 }
 
-
 .column {
     width:48.5%;
-    padding-top:20px;
+    padding-top:0em;
 }
 
 .expand-toggle {
@@ -166,7 +66,8 @@ p, ul, ol, table { margin-top: 1em; }
 
 .expand-content ul {
     margin-top:0px;
-    padding-top:16px;
+    padding-top:0.5em;
+	padding-bottom:0.5em;
     list-style-type:none;
     line-height:150%;
 }
