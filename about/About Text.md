@@ -1,10 +1,10 @@
-Exploring Your Universe is an annual science outreach day held on the UCLA campus, filled with exciting science demos, activities, and talks.
+Exploring Your Universe (EYU) is an annual science outreach day held on the UCLA campus, filled with exciting science demos, activities, and talks. EYU has family-friendly activities that provide a wonderful look into real science for all ages, "from K through Gray"!
 
 <div class="video-container">
 	<center><iframe src="https://www.youtube-nocookie.com/embed/doC6Rd93YyA?rel=0" frameborder="0" allowfullscreen></iframe></center>
 </div>
 
-Exploring Your Universe 2015 is made possible by the amazing hard work of our organizing committee, participating groups, and sponsors.
+EYU 2015 is made possible by the hard work of our amazing volunteers in our organizing committee and participating groups, and our sponsors.
 
 ## Organizing Committee
 Exploring Your Universe 2015 was put together with the help of all members of the 2015 EYU Organizing Committee:
