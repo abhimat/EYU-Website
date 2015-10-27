@@ -4,7 +4,7 @@ Exploring Your Universe is an annual science outreach day held on the UCLA campu
 	<center><iframe src="https://www.youtube-nocookie.com/embed/doC6Rd93YyA?rel=0" frameborder="0" allowfullscreen></iframe></center>
 </div>
 
-Exploring Your Universe 2015 is made possible by the amazing hard work of our coordinators, participating groups, and sponsors.
+Exploring Your Universe 2015 is made possible by the amazing hard work of our organizing committee, participating groups, and sponsors.
 
 ## Organizing Committee
 Exploring Your Universe 2015 was put together with the help of all members of the 2015 EYU Organizing Committee:
