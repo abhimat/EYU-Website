@@ -82,7 +82,10 @@ imagecaption, .imagecaption {
 	font-size: 14px;
 }
 
-p, ul, ol, table { margin-top: 1em; }
+p, ul, ol, table {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
 
 @media screen and (min-width: 480px) {
 	h1, .h1 { font-size: 42px; }
@@ -483,12 +486,28 @@ footer.wrap {
 	padding-bottom: 2em;
 }
 
-/*Slideshow Styles*/
+/*Video Styles*/
 
-.slide-container {
-    width:100%;
-    margin-left:auto;
-    margin-right:auto;
+.video-container {
+    width: 100%;
+	max-width: 1280px;
+	margin-left: auto;
+    margin-right: auto;
+	
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 0px;
+	height: 0;	
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
 
 /*Sponsor Styles*/
