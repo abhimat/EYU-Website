@@ -1,203 +1,203 @@
 <!--This is just an html container for the schedule.  It may end up in a different location.-->
 
 <html>
-    <head>
-        <title>EYU 2015 Schedule</title>
+	<head>
+		<title>EYU 2015 Schedule</title>
 		
 		<!-- Google Web Fonts -->
 		<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
 		
 		<meta name=viewport content='width=device-width, initial-scale=1'>
 		
-        <link rel="stylesheet" href="./schedule-styles.css" type="text/css">
-    </head>
+		<link rel="stylesheet" href="./schedule-styles.css" type="text/css">
+	</head>
 
-    <body>
+	<body>
 
-        <!--Container for the thing-->
-        <div class="container">
-            
-            <div class="column left">
-                <div class="expand-toggle down-arrow round-bottom">
+		<!--Container for the thing-->
+		<div class="container">
+			
+			<div class="column left">
+				<div class="expand-toggle down-arrow round-bottom">
 
-                    <h2 style="display:inline">Astronomy</h2>
-                    <p style="float:right">&#9660;</p>
-                </div>
+					<h2 style="display:inline">Astronomy</h2>
+					<p style="float:right">&#9660;</p>
+				</div>
 
-                <div class="expand-content">
-                    <ul class="demo-list">
-                        <li>&#9312; The Sun and Solar Telescopes</li>
-                        <li>&#9313; Stars and Stellar Evolution</li>
-                        <li>&#9312; Bottle Rocket Launches</li>
-                        <li>&#9312; Comet Making Demo</li>
-                        <li>&#9313; Pocket Solar System and Asteroids</li>
-                        <li>&#9312; Constellation Detectives</li>
-                        <li>&#9312; Gravity Demo - Investigate the Fabric of Spacetime</li>
-                        <li>&#9312; Discover methods for finding new worlds beyond our solar system</li>
-                        <li>&#9312; Ask an Astronomer</li>
-                        <li>&#9312; BHE Gamma Ray Astronomy</li>
-                        <li>&#9312; Celestron Telescopes</li>
-                        <li>&#9312; Thirty Meter Telescope</li>
-                    </ul>
-                </div>
-
-                <div class="expand-toggle down-arrow round-bottom">
-                    <h2 style="display:inline;">Earth, Planetary, and Space Sciences</h2>
-                    <p style="float:right">&#9660;</p>
-                </div>
-
-                <div class="expand-content">
-                    <ul class="demo-list">
-                        <li>The Shocking World of Electricity</li>
-                        <li>Dinosaurs and Fossils</li>
-                        <li>Earth: Inside and Out</li>
-                        <li>Mineral Gallery</li>
-                        <li>Natural Disasters</li>
-                        <li>Meteorite Museum</li>
-                        <li>Build Your Own Hurricane</li>
-                        <li>Space Missions</li>
-                    </ul>
-                </div>
- 
-                <div class="expand-toggle down-arrow round-bottom">
-                    <h2 style="display:inline">Chemistry</h2>
-                    <p style="float:right">&#9660;</p>
-                </div>
-
-                <div class="expand-content">
-                    <ul class="demo-list">
-                        <li>Super Cool Fun with Liquid Nitrogen</li>
-                        <li>Household Item Chemistry</li>
-                        <li>Everyday Chemistry</li>
-                        <li>Science and Food</li>
-                        <li>Science Behind Magic</li>
-                    </ul>
-                </div>
- 
-                <div class="expand-toggle down-arrow round-bottom">
-                    <h2 style="display:inline">Engineering</h2>
-                    <p style="float:right">&#9660;</p>
-                </div>
-
-                <div class="expand-content">
-                    <ul class="demo-list">
-                        <li>Civil Engineers at Work</li>
-                        <li>Engineering Robots</li>
-                        <li>Nanoscience</li>
-                        <li>Explore how optics work.</li>
-                        <li>3D Projection</li>
-                    </ul>
-                </div>
- 
-                <div class="expand-toggle down-arrow round-bottom">
-                    <h2 style="display:inline">Math and Statistics</h2>
-                    <p style="float:right">&#9660;</p>
-                </div>
-
-                <div class="expand-content">
-                    <ul class="demo-list">
-                        <li>Mobius Strips</li>
-                        <li>The Game of Nim</li>
-                        <li>The Largest Numbers</li>
-                        <li>The Liar Paradox</li>
-                        <li>Exploring Statistics</li>
-                    </ul>
-                </div>
- 
-
-
-
-            </div>
-
-
-
-
-            <div class="column right">
-                <div class="expand-toggle down-arrow round-bottom">
-                    <h2 style="display:inline">Physics</h2>
-                    <p style="float:right">&#9660;</p>
-                </div>
-
-                <div class="expand-content">
-                    <ul class="demo-list">
-                        <li>Lasers and Optics</li>
-                        <li>Sound and Waves</li>
-                        <li>Rotational Motion</li>
-                        <li>Electricity and Magnetism</li>
-                        <li>Optical Illusions</li>
-                        <li>Fluids and Buoyancy</li>
-                        <li>Arduino Robotics Club</li>
-                        <li>Elegant Minds Lab Tours</li>
-                    </ul>
-                </div>
-
-                <div class="expand-toggle down-arrow round-bottom">
-                    <h2 style="display:inline">Atmospheric and Oceanic Sciences</h2>
-                    <p style="float:right">&#9660;</p>
-                </div>
-
-                <div class="expand-content">
-                    <ul class="demo-list">
-                        <li>Exploding Marshmallows</li>
-                        <li>Can Crushing</li>
-                        <li>Tornado-in-a-bottle</li>
-                        <li>Cloud-in-a-bottle</li>
-                        <li>Portable Weather Station</li>
-                        <li>SpinLab</li>
-                    </ul>
-                </div>
-
-
-
-                <div class="expand-toggle down-arrow round-bottom">
-                    <h2 style="display:inline">Biology</h2>
-                    <p style="float:right">&#9660;</p>
-                </div>
-
-                <div class="expand-content">
-                    <ul class="demo-list">
-                        <li>Ecology and Evolutionary Biology</li>
-                        <li>STAR EcoStation</li>
-                        <li>Environmental Science</li>
-                        <li>UCLA Emergency Medical Services</li>
-                    </ul>
-                </div>
-
-                 <div class="expand-toggle down-arrow round-bottom">
-                    <h2 style="display:inline">Neuroscience</h2>
-                    <p style="float:right">&#9660;</p>
-                </div>
-
-                <div class="expand-content">
-                    <ul class="demo-list">
-                        <li>Brains!</li>
-                        <li>Psychology in Action</li>
-                    </ul>
-                </div>
-
-                  <div class="expand-toggle down-arrow round-bottom nighttime">
-                    <h2 style="display:inline">Nighttime Activities</h2>
-                    <p style="float:right">&#9660;</p>
-                </div>
-
-                <div class="expand-content">
+				<div class="expand-content">
 					<ul class="demo-list">
-                        <li>Telescope Viewing</li>
-                        <li>Flash Wall</li>
-                    </ul>
-                </div>
+						<li>&#9312; The Sun and Solar Telescopes</li>
+						<li>&#9313; Stars and Stellar Evolution</li>
+						<li>&#9312; Bottle Rocket Launches</li>
+						<li>&#9312; Comet Making Demo</li>
+						<li>&#9313; Pocket Solar System and Asteroids</li>
+						<li>&#9312; Constellation Detectives</li>
+						<li>&#9312; Gravity Demo - Investigate the Fabric of Spacetime</li>
+						<li>&#9312; Discover methods for finding new worlds beyond our solar system</li>
+						<li>&#9312; Ask an Astronomer</li>
+						<li>&#9312; BHE Gamma Ray Astronomy</li>
+						<li>&#9312; Celestron Telescopes</li>
+						<li>&#9312; Thirty Meter Telescope</li>
+					</ul>
+				</div>
+
+				<div class="expand-toggle down-arrow round-bottom">
+					<h2 style="display:inline;">Earth, Planetary, and Space Sciences</h2>
+					<p style="float:right">&#9660;</p>
+				</div>
+
+				<div class="expand-content">
+					<ul class="demo-list">
+						<li>The Shocking World of Electricity</li>
+						<li>Dinosaurs and Fossils</li>
+						<li>Earth: Inside and Out</li>
+						<li>Mineral Gallery</li>
+						<li>Natural Disasters</li>
+						<li>Meteorite Museum</li>
+						<li>Build Your Own Hurricane</li>
+						<li>Space Missions</li>
+					</ul>
+				</div>
+ 
+				<div class="expand-toggle down-arrow round-bottom">
+					<h2 style="display:inline">Chemistry</h2>
+					<p style="float:right">&#9660;</p>
+				</div>
+
+				<div class="expand-content">
+					<ul class="demo-list">
+						<li>Super Cool Fun with Liquid Nitrogen</li>
+						<li>Household Item Chemistry</li>
+						<li>Everyday Chemistry</li>
+						<li>Science and Food</li>
+						<li>Science Behind Magic</li>
+					</ul>
+				</div>
+ 
+				<div class="expand-toggle down-arrow round-bottom">
+					<h2 style="display:inline">Engineering</h2>
+					<p style="float:right">&#9660;</p>
+				</div>
+
+				<div class="expand-content">
+					<ul class="demo-list">
+						<li>Civil Engineers at Work</li>
+						<li>Engineering Robots</li>
+						<li>Nanoscience</li>
+						<li>Explore how optics work.</li>
+						<li>3D Projection</li>
+					</ul>
+				</div>
+ 
+				<div class="expand-toggle down-arrow round-bottom">
+					<h2 style="display:inline">Math and Statistics</h2>
+					<p style="float:right">&#9660;</p>
+				</div>
+
+				<div class="expand-content">
+					<ul class="demo-list">
+						<li>Mobius Strips</li>
+						<li>The Game of Nim</li>
+						<li>The Largest Numbers</li>
+						<li>The Liar Paradox</li>
+						<li>Exploring Statistics</li>
+					</ul>
+				</div>
+ 
 
 
 
-            </div>
-        </div>
+			</div>
 
 
 
 
-        <script src="jquery-1.11.1.min.js"></script> 
-        <script src="expand.js"></script>
-    </body>
+			<div class="column right">
+				<div class="expand-toggle down-arrow round-bottom">
+					<h2 style="display:inline">Physics</h2>
+					<p style="float:right">&#9660;</p>
+				</div>
+
+				<div class="expand-content">
+					<ul class="demo-list">
+						<li>Lasers and Optics</li>
+						<li>Sound and Waves</li>
+						<li>Rotational Motion</li>
+						<li>Electricity and Magnetism</li>
+						<li>Optical Illusions</li>
+						<li>Fluids and Buoyancy</li>
+						<li>Arduino Robotics Club</li>
+						<li>Elegant Minds Lab Tours</li>
+					</ul>
+				</div>
+
+				<div class="expand-toggle down-arrow round-bottom">
+					<h2 style="display:inline">Atmospheric and Oceanic Sciences</h2>
+					<p style="float:right">&#9660;</p>
+				</div>
+
+				<div class="expand-content">
+					<ul class="demo-list">
+						<li>Exploding Marshmallows</li>
+						<li>Can Crushing</li>
+						<li>Tornado-in-a-bottle</li>
+						<li>Cloud-in-a-bottle</li>
+						<li>Portable Weather Station</li>
+						<li>SpinLab</li>
+					</ul>
+				</div>
+
+
+
+				<div class="expand-toggle down-arrow round-bottom">
+					<h2 style="display:inline">Biology</h2>
+					<p style="float:right">&#9660;</p>
+				</div>
+
+				<div class="expand-content">
+					<ul class="demo-list">
+						<li>Ecology and Evolutionary Biology</li>
+						<li>STAR EcoStation</li>
+						<li>Environmental Science</li>
+						<li>UCLA Emergency Medical Services</li>
+					</ul>
+				</div>
+
+				 <div class="expand-toggle down-arrow round-bottom">
+					<h2 style="display:inline">Neuroscience</h2>
+					<p style="float:right">&#9660;</p>
+				</div>
+
+				<div class="expand-content">
+					<ul class="demo-list">
+						<li>Brains!</li>
+						<li>Psychology in Action</li>
+					</ul>
+				</div>
+
+				  <div class="expand-toggle down-arrow round-bottom nighttime">
+					<h2 style="display:inline">Nighttime Activities</h2>
+					<p style="float:right">&#9660;</p>
+				</div>
+
+				<div class="expand-content">
+					<ul class="demo-list">
+						<li>Telescope Viewing</li>
+						<li>Flash Wall</li>
+					</ul>
+				</div>
+
+
+
+			</div>
+		</div>
+
+
+
+
+		<script src="jquery-1.11.1.min.js"></script> 
+		<script src="expand.js"></script>
+	</body>
 
 
 
