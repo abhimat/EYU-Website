@@ -1,5 +1,5 @@
-/*Style sheet for UCLA Planetarium page*/
-/*By Abhimat Gautam.*/
+/*Style sheet for EYU main page*/
+/*By Abhimat Gautam*/
 
 
 /*Reset*/
@@ -82,7 +82,10 @@ imagecaption, .imagecaption {
 	font-size: 14px;
 }
 
-p, ul, ol, table { margin-top: 1em; }
+p, ul, ol, table {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
 
 @media screen and (min-width: 480px) {
 	h1, .h1 { font-size: 42px; }
@@ -349,7 +352,6 @@ a:hover {
 	text-align: center;
 	margin-top: 1em;
 	margin-bottom: 0em;
-}
 }
 
 .block ul, .block ol {
