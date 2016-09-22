@@ -1,5 +1,4 @@
-
-Copies of our posters and handouts for distributions:
+Copies of our posters and handouts for distribution:
 
 ## Letter Size Flyers
 * Design 1: [English](./BWFlyer2.pdf), [Español](./EspanolBWFlyer2.pdf) (PDF, 6.7 MB each)
