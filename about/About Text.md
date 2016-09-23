@@ -16,7 +16,7 @@ EYU 2016 is made possible by the hard work of our amazing volunteers in our orga
 * **Xinnan Du** and **Ryan Roussel**<br>Group Coordinators<br>UCLA, Department of Physics and Astronomy
 * **Christina Van**<br>Merchandise Coordinator<br>UCLA, Department of Biology
 * **Abhimat Gautam**<br>Print and Design Coordinator<br>UCLA, Department of Physics and Astronomy
-* **Oscar Campos**<br>Public Talks Coordinator<br>UCLA, Department of Earth, Planetary, and Space Sciences
+* **Oscar Campos**<br>Public Talks Coordinator<br>UCLA, Department of Molecular Biology
 * **Breann Sitarski**<br>Social Media Coordinator<br>UCLA, Department of Physics and Astronomy
 
 ### Department Liaisons
