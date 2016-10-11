@@ -9,13 +9,13 @@ EYU 2016 is made possible by the hard work of our amazing volunteers in our orga
 ## EYU 2016 Organizing Committee
 
 * **Michael Topping**<br>Lead Coordinator<br>UCLA, Department of Physics and Astronomy
+* **Abhimat Gautam**<br>Design Coordinator<br>UCLA, Department of Physics and Astronomy
 * **Alexander Stephan**<br>Equipment Coordinator<br>UCLA, Department of Physics and Astronomy
 * **Michael Topping**<br>Facilities Coordinator<br>UCLA, Department of Physics and Astronomy
 * **Jennifer Tribble**<br>Food Coordinator<br>UCLA, Department of Neuroscience
 * **Michelle Consiglio**<br>Fundraising Coordinator<br>UCLA, Department of Physics and Astronomy
 * **Xinnan Du** and **Ryan Roussel**<br>Group Coordinators<br>UCLA, Department of Physics and Astronomy
 * **Christina Van**<br>Merchandise Coordinator<br>UCLA, Department of Biology
-* **Abhimat Gautam**<br>Print and Design Coordinator<br>UCLA, Department of Physics and Astronomy
 * **Oscar Campos**<br>Public Talks Coordinator<br>UCLA, Department of Biology
 * **Breann Sitarski**<br>Social Media Coordinator<br>UCLA, Department of Physics and Astronomy
 
