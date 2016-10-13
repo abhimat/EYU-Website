@@ -21,13 +21,9 @@ EYU 2016 is made possible by the hard work of our amazing volunteers in our orga
 
 ### Department Liaisons
 * **—**<br>UCLA, Department of Atmospheric and Oceanic Sciences
-* **—**<br>UCLA, Department of Biology
+* **Christina Van**<br>UCLA, Department of Biology
 * **—**<br>UCLA, Department of Chemistry
 * **—**<br>UCLA, Department of Earth, Planetary, and Space Sciences
 * **—**<br>UCLA, Department of Ecology and Evolutionary Biology
 * **Devin Chu** and **Helen Kim**<br>UCLA, Department of Physics and Astronomy (Astronomy)
-* **—**<br>UCLA, Department of Physics and Astronomy (Physics)
-
-## Participating Groups
-
-<center><p><em>To be announced</em></p></center>
+* **Ryan Roussel**<br>UCLA, Department of Physics and Astronomy (Physics)
