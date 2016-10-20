@@ -18,12 +18,3 @@ EYU 2016 is made possible by the hard work of our amazing volunteers in our orga
 * **Christina Van**<br>Merchandise Coordinator<br>UCLA, Department of Biology
 * **Oscar Campos**<br>Public Talks Coordinator<br>UCLA, Department of Biology
 * **Breann Sitarski**<br>Social Media Coordinator<br>UCLA, Department of Physics and Astronomy
-
-### Department Liaisons
-* **—**<br>UCLA, Department of Atmospheric and Oceanic Sciences
-* **Christina Van**<br>UCLA, Department of Biology
-* **—**<br>UCLA, Department of Chemistry
-* **—**<br>UCLA, Department of Earth, Planetary, and Space Sciences
-* **—**<br>UCLA, Department of Ecology and Evolutionary Biology
-* **Devin Chu** and **Helen Kim**<br>UCLA, Department of Physics and Astronomy (Astronomy)
-* **Ryan Roussel**<br>UCLA, Department of Physics and Astronomy (Physics)
