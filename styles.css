@@ -56,6 +56,11 @@ h3, .h3 {
 	font-size: 16px;
 }
 
+h4, .h4 {
+	font-weight: 600;
+	font-size: 16px;
+}
+
 h1+h2 { margin-top: 0; }
 
 p, .p, ul, ol, table {
@@ -91,6 +96,7 @@ p, ul, ol, table {
 	h1, .h1 { font-size: 42px; }
 	h2, .h2 { font-size: 26px; }
 	h3, .h3 { font-size: 22px; }
+    h4, .h4 { font-size: 20px; }
 	p, .p, ul, ol, table { font-size: 20px;}
 	small, .small { font-size: 16px;}
 	imagecaption, .imagecaption { font-size: 16px;}
@@ -100,6 +106,7 @@ p, ul, ol, table {
 	h1, .h1 { font-size: 54px; }
 	h2, .h2 { font-size: 28px; } 
 	h3, .h3 { font-size: 24px; }
+    h4, .h4 { font-size: 20px; }
 }
 
 /*Figure Styles*/
@@ -376,7 +383,7 @@ a:hover {
 	border-collapse: collapse
 }
 
-.block table td {
+.block table td, th {
 	padding: 0.5em;
 }
 

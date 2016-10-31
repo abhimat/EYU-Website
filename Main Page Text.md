@@ -1,5 +1,7 @@
-[Printable Directions (Driving & Public Transit](./MainPagePrintMaterials/DirectionsPrintout.pdf)
+<figure class="bleed"><img src="resources/Header.png" srcset="resources/Header-1x.png 1x, resources/Header-2x.png 2x"></figure>
 
-[EYU 2015 Program of Events](./MainPagePrintMaterials/EYU2015Program.pdf)
+Exploring Your Universe (EYU) is an annual science outreach day held on the UCLA campus, filled with exciting science demos, fun activities, and interesting talks. EYU has family-friendly activities that provide a wonderful look into real science for all ages, "from K through Gray"!
 
-[EYU 2015 Map](./MainPagePrintMaterials/EYU2015Map.pdf)
+
+### Science Booths
+*Coming Soon!*
