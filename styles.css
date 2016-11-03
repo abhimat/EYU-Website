@@ -282,7 +282,7 @@ header hr {
 
 ul.pages {
 	list-style: none;
-	padding-bottom: 1em;
+	padding-bottom: 0em;
 }
 
 ul.pages > li {
